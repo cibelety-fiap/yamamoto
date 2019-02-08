@@ -9,6 +9,7 @@ import br.com.fiap.bean.Transmissao;
 
 public class Teste {
 
+	
 	public static void main(String[] args) {
 		Carro carro = new Carro();
 		carro.setCambio(Transmissao.SEMI_AUTOMATICO);
